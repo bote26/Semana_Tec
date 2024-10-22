@@ -1,2 +1,5 @@
 matplotlib
 scipy
+numpy
+pandas
+calculos.py
